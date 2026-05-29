@@ -1,0 +1,6 @@
+{
+  "name": "Smart Travel Planner & Tourism Analytics",
+  "description": "An Agentic AI Tourism Assistant prototype built for smart travel planning, personalized itinerary creation, and tourism business intelligence analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
